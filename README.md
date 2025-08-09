@@ -1,4 +1,4 @@
-# Stock Analysis Interface — Java & SQL
+# Stock Analysis Interface
 
 ## Overview
 
@@ -10,7 +10,7 @@ The goal is to construct a robust, simple-to-use Java application that pulls sto
 
 ## Key Features
 
-- **Text-Based Interface**: Lightweight and accessible—users navigate through command-line prompts to request data and run analysis.
+- **Text-Based Interface**: Lightweight and accessible, users navigate through command-line prompts to request data and run analysis.
 - **Java–SQL Integration**: Utilizes JDBC to communicate with MySQL, enabling real-time data retrieval and manipulation.
 - **Core Stock Analytics**:
   - Query stock price history
